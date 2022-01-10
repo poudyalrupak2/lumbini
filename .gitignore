@@ -32,6 +32,7 @@ android/
 android/*
 android/**/*
 /android/
+*.hprof
 # node.js
 #
 node_modules/
