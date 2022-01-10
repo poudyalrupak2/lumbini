@@ -31,6 +31,7 @@ local.properties
 android/
 android/*
 android/**/*
+/android/
 # node.js
 #
 node_modules/
